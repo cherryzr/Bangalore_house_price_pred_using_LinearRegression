@@ -1,7 +1,7 @@
 # Bangalore House Prediction Project using Linear Regression
 
 ![Banglore](https://github.com/ishikawa-yui/Bangalore_house_price_pred_using_LinearRegression/assets/71602299/228e47c3-21b2-4c02-97f1-99e892e7c25f)
-
+(Using LinearRegression)
 
 This project aims to predict house prices in Bangalore using linear regression. The dataset contains various features related to houses in Bangalore, and the goal is to build a predictive model to estimate the price of a house based on its characteristics. In this README file, we'll provide an overview of the project, the dataset, and the key steps involved.
 
