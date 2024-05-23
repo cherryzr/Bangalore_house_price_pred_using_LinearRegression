@@ -5,7 +5,7 @@
 
 This project aims to predict house prices in Bangalore using linear regression. The dataset contains various features related to houses in Bangalore, and the goal is to build a predictive model to estimate the price of a house based on its characteristics. In this README file, we'll provide an overview of the project, the dataset, and the key steps involved.
 
-![Link to PPT](https://my.visme.co/view/31o307pe-ml-project#s1)
+[Link to PPT](https://my.visme.co/view/31o307pe-ml-project#s1)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
