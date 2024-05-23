@@ -7,6 +7,7 @@ This project aims to predict house prices in Bangalore using linear regression. 
 
 [Link to PPT](https://my.visme.co/view/31o307pe-ml-project#s1)
 
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
